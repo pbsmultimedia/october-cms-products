@@ -1,0 +1,4 @@
+title: Variants
+modelClass: Pbs\Products\Models\Variant
+toolbar:
+    buttons: reorder_toolbar

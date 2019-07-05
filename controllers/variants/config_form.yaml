@@ -1,0 +1,10 @@
+name: Variants
+form: $/pbs/products/models/variant/fields.yaml
+modelClass: Pbs\Products\Models\Variant
+defaultRedirect: pbs/products/variants
+create:
+    redirect: 'pbs/products/variants/update/:id'
+    redirectClose: pbs/products/variants
+update:
+    redirect: pbs/products/variants
+    redirectClose: pbs/products/variants

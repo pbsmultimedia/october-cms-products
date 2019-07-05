@@ -1,0 +1,4 @@
+title: Items
+modelClass: Pbs\Products\Models\Item
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,32 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table pbs_products_item'
+    - builder_table_create_pbs_products_item.php
+1.0.3:
+    - 'Created table pbs_products_item_variant'
+    - builder_table_create_pbs_products_item_variant.php
+1.0.4:
+    - 'Created table pbs_products_variant'
+    - builder_table_create_pbs_products_variant.php
+1.0.5:
+    - 'Updated table pbs_products_item_variant'
+    - builder_table_update_pbs_products_item_variant.php
+1.0.6:
+    - 'Updated table pbs_products_item_variant'
+    - builder_table_update_pbs_products_item_variant_2.php
+1.0.7:
+    - 'Updated table pbs_products_item'
+    - builder_table_update_pbs_products_item.php
+1.0.8:
+    - 'Updated table pbs_products_item'
+    - builder_table_update_pbs_products_item_2.php
+1.0.9:
+    - 'Updated table pbs_products_variant'
+    - builder_table_update_pbs_products_variant.php
+1.0.10:
+    - 'Updated table pbs_products_variant'
+    - builder_table_update_pbs_products_variant_2.php
+1.0.11:
+    - 'Updated table pbs_products_item_variant'
+    - builder_table_update_pbs_products_item_variant_3.php

@@ -1,0 +1,10 @@
+name: Items
+form: $/pbs/products/models/item/fields.yaml
+modelClass: Pbs\Products\Models\Item
+defaultRedirect: pbs/products/items
+create:
+    redirect: 'pbs/products/items/update/:id'
+    redirectClose: pbs/products/items
+update:
+    redirect: pbs/products/items
+    redirectClose: pbs/products/items

@@ -1,0 +1,23 @@
+variant:
+  label: variant
+  view:
+    #list: $/sws/surf/models/surfboardmodeltailpivot/columns-outline.yaml
+    list: $/pbs/products/models/variant/columns.yaml
+    #toolbarButtons: add|remove|download_template
+  manage:
+    form: $/pbs/products/models/variant/fields.yaml
+    # branche is product
+    # comission is variant
+    #form: $/sws/surf/models/surfboardmodeltailpivot/columns.yaml
+    #list: $/shems/network/models/branchecommissionpivot/columns_minimal.yaml
+    recordsPerPage: 10
+  pivot:
+    form:
+      fields:
+        pivot[outline]:
+          label: SVG
+          type: fileupload
+          fileTypes: svg
+          mode: file
+  # similar issue
+  # https://octobercms.com/forum/post/pivot-edit-form-and-image-upload

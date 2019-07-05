@@ -1,0 +1,8 @@
+fields:
+    name:
+        label: name
+        span: auto
+        type: text
+    variant:
+        label: variant
+        type: partial

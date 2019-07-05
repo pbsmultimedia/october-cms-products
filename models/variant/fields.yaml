@@ -1,0 +1,11 @@
+fields:
+    name:
+        label: name
+        span: auto
+        type: text
+    #outline:
+    #    label: SVG outline
+    #    type: fileupload
+    #    span: auto
+    #    fileTypes: svg
+    #    mode: file

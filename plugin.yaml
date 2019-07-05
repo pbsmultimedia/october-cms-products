@@ -1,0 +1,20 @@
+plugin:
+    name: 'pbs.products::lang.plugin.name'
+    description: 'pbs.products::lang.plugin.description'
+    author: PBS
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Products
+        url: /pbs/products/items
+        icon: icon-life-ring
+        sideMenu:
+            side-menu-items:
+                label: Items
+                url: /pbs/products/items
+                icon: icon-sitemap
+            side-menu-variants:
+                label: Variants
+                url: /pbs/products/variants
+                icon: icon-sitemap
